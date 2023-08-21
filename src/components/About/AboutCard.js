@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Olá pessoas, sou o <span className="purple">Allan Amancio </span>
             da <span className="purple"> Paraíba, Brasil.</span>
-            <br /> Eu estou no penúltimo ano do curso Sistemas para Internet no Instituto Federal da Paraíba (IFPB).
+            <br /> Eu estou no penúltimo ano do curso Sistemas para Internet, no Instituto Federal da Paraíba (IFPB).
             <br />
             Atualmente, estou a procura de alguma vaga de estágio na área de Tecnologia da Informação.
             <br />
