@@ -1,30 +1,25 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
-  SiVisualstudiocode,
-  SiMysql,
-  SiPostgresql,
-  SiMicrosoftsqlserver,
-  SiMongodb
+  SiPostman,
+  SiDotnet,
+  SiBootstrap
 } from "react-icons/si";
 
-function DataStack() {
+function Utilitiesstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiMysql />
+        <SiPostman />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPostgresql />
+        <SiDotnet />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiMicrosoftsqlserver />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiMongodb />
+        <SiBootstrap />
       </Col>
     </Row>
   );
 }
 
-export default DataStack;
+export default Utilitiesstack;

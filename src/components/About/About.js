@@ -6,6 +6,11 @@ import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
 import Datastack from "./Datastack";
+import Cloudstack from "./Cloudstack";
+import Utilitiesstack from "./Utilitiesstack";
+import Devopsstack from "./Devopsstack";
+import Developmenttoolsstack from "./Developmenttoolsstack";
+import Othersstack from "./Othersstack";
 
 function About() {
   return (
@@ -34,16 +39,41 @@ function About() {
             <img src={laptopImg} alt="about" className="img-fluid" />
           </Col>
         </Row>
+
         <h1 className="project-heading">
           <strong className="purple">Applications</strong>
         </h1>
-
         <Techstack />
 
         <h1 className="project-heading">
-          <strong className="purple">Tools</strong> I use
+          <strong className="purple">Data</strong> tools
         </h1>
         <Datastack />
+
+        <h1 className="project-heading">
+          <strong className="purple">Cloud</strong> computing
+        </h1>
+        <Cloudstack />
+
+        <h1 className="project-heading">
+          <strong className="purple">Utilities</strong>
+        </h1>
+        <Utilitiesstack />
+
+        <h1 className="project-heading">
+          <strong className="purple">DevOps</strong>
+        </h1>
+        <Devopsstack />
+
+        <h1 className="project-heading">
+          <strong className="purple">Development Tools</strong>
+        </h1>
+        <Developmenttoolsstack />
+
+        <h1 className="project-heading">
+          <strong className="purple">Others</strong>
+        </h1>
+        <Othersstack />
 
         <Github />
       </Container>
