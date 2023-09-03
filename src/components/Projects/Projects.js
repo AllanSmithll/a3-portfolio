@@ -5,9 +5,9 @@ import Particle from "../Particle";
 import leaf from "../../Assets/Projects/leaf.png";
 import emotion from "../../Assets/Projects/emotion.png";
 import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
+import theLister from "../../Assets/Projects/theLister.png";
 import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import cronosStar from "../../Assets/Projects/cronosStar.png";
 
 function Projects() {
   return (
@@ -15,31 +15,32 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          My Recent <strong className="purple">Works </strong>
+          Meus <strong className="purple">Projetos </strong>
+          Recentes
         </h1>
         <p style={{ color: "white" }}>
-          Here are a few projects I've worked on recently.
+          Aqui estão alguns projetos que tenho trabalhado recentemente
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={theLister}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title="The Lister"
+              description="O projeto Lister é um aplicativo Web simples projetado para ajudá-lo a organizar tarefas. O projeto foi criado com o objetivo de fornecer uma interface intuitiva para adicionar, gerenciar e marcar tarefas como concluídas. O aplicativo é desenvolvido em React e utiliza componentes funcionais para criar uma experiência interativa e amigável, trabalhando também com Armazenamento Local (Web Storage) das tarefas, tanto as tarefas ativas quanto as concluídas."
+              ghLink="https://github.com/AllanSmithll/the-lister"
+              demoLink="https://allansmithll.github.io/the-lister/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={cronosStar}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="Cronos Star"
+              description="Cronos Star é um aplicativo de relógio desenvolvido em HTML, CSS e JavaScript. O aplicativo exibe a hora atual de alguns países no mundo e possui um design responsivo que se adapta a diferentes tamanhos de tela."
+              ghLink="https://github.com/AllanSmithll/cronos-star"
+              demoLink="https://allansmithll.github.io/cronos-star/"
             />
           </Col>
 
