@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/a3-portfolio/static/css/main.407e6b17.css",
-    "main.js": "/a3-portfolio/static/js/main.78f95eec.js",
+    "main.js": "/a3-portfolio/static/js/main.2927123f.js",
     "static/js/787.d91508cd.chunk.js": "/a3-portfolio/static/js/787.d91508cd.chunk.js",
     "static/media/avatar2.jpg": "/a3-portfolio/static/media/avatar2.a5539a14076b72bcf120.jpg",
     "static/media/Curriculo_AllanAmancio-2205202307_v1.pdf": "/a3-portfolio/static/media/Curriculo_AllanAmancio-2205202307_v1.59a42333b94d38387e43.pdf",
@@ -14,11 +14,11 @@
     "static/media/pre.svg": "/a3-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/a3-portfolio/index.html",
     "main.407e6b17.css.map": "/a3-portfolio/static/css/main.407e6b17.css.map",
-    "main.78f95eec.js.map": "/a3-portfolio/static/js/main.78f95eec.js.map",
+    "main.2927123f.js.map": "/a3-portfolio/static/js/main.2927123f.js.map",
     "787.d91508cd.chunk.js.map": "/a3-portfolio/static/js/787.d91508cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.407e6b17.css",
-    "static/js/main.78f95eec.js"
+    "static/js/main.2927123f.js"
   ]
 }
