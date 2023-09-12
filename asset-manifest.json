@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nomerepositorio/static/css/main.23b70ec2.css",
+    "main.js": "/nomerepositorio/static/js/main.13b7b74b.js",
+    "static/js/787.d91508cd.chunk.js": "/nomerepositorio/static/js/787.d91508cd.chunk.js",
+    "static/media/avatar2.jpg": "/nomerepositorio/static/media/avatar2.a5539a14076b72bcf120.jpg",
+    "static/media/Curriculo_AllanAmancio-2205202307_v1.pdf": "/nomerepositorio/static/media/Curriculo_AllanAmancio-2205202307_v1.59a42333b94d38387e43.pdf",
+    "static/media/home-main.svg": "/nomerepositorio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/nomerepositorio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/4talk.png": "/nomerepositorio/static/media/4talk.96f274b0d14a45609b3d.png",
+    "static/media/home-bg.jpg": "/nomerepositorio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/cronosStar.png": "/nomerepositorio/static/media/cronosStar.39ac5bc3c2614e6fd410.png",
+    "static/media/theLister.png": "/nomerepositorio/static/media/theLister.93785fc756b7016794ae.png",
+    "static/media/pre.svg": "/nomerepositorio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/nomerepositorio/index.html",
+    "main.23b70ec2.css.map": "/nomerepositorio/static/css/main.23b70ec2.css.map",
+    "main.13b7b74b.js.map": "/nomerepositorio/static/js/main.13b7b74b.js.map",
+    "787.d91508cd.chunk.js.map": "/nomerepositorio/static/js/787.d91508cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23b70ec2.css",
+    "static/js/main.13b7b74b.js"
+  ]
+}
