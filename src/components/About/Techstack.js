@@ -14,7 +14,9 @@ import {
 import {
   SiTypescript,
   SiCsharp,
-  SiVite
+  SiVite,
+  SiGo,
+  SiDotnet
 } from "react-icons/si";
 
 function Techstack() {
@@ -36,6 +38,9 @@ function Techstack() {
         <SiTypescript />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <SiGo />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <DiNodejs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
@@ -55,6 +60,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVite />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiDotnet />
       </Col>
     </Row>
   );
