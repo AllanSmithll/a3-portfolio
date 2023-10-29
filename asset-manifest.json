@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/a3-portfolio/static/css/main.407e6b17.css",
-    "main.js": "/a3-portfolio/static/js/main.96e34d62.js",
+    "main.js": "/a3-portfolio/static/js/main.10b7e955.js",
     "static/js/787.d91508cd.chunk.js": "/a3-portfolio/static/js/787.d91508cd.chunk.js",
     "static/media/avatar2.jpg": "/a3-portfolio/static/media/avatar2.a5539a14076b72bcf120.jpg",
     "static/media/home-main.svg": "/a3-portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/a3-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Curriculo_AllanAmancio-18092023.pdf": "/a3-portfolio/static/media/Curriculo_AllanAmancio-18092023.5fe84a169c99b42095c7.pdf",
+    "static/media/curriculo-fullstack-PT.pdf": "/a3-portfolio/static/media/curriculo-fullstack-PT.dd8092ab842fa84d178e.pdf",
     "static/media/4talk.png": "/a3-portfolio/static/media/4talk.96f274b0d14a45609b3d.png",
     "static/media/home-bg.jpg": "/a3-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/cronosStar.png": "/a3-portfolio/static/media/cronosStar.39ac5bc3c2614e6fd410.png",
@@ -14,11 +14,11 @@
     "static/media/pre.svg": "/a3-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/a3-portfolio/index.html",
     "main.407e6b17.css.map": "/a3-portfolio/static/css/main.407e6b17.css.map",
-    "main.96e34d62.js.map": "/a3-portfolio/static/js/main.96e34d62.js.map",
+    "main.10b7e955.js.map": "/a3-portfolio/static/js/main.10b7e955.js.map",
     "787.d91508cd.chunk.js.map": "/a3-portfolio/static/js/787.d91508cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.407e6b17.css",
-    "static/js/main.96e34d62.js"
+    "static/js/main.10b7e955.js"
   ]
 }
