@@ -1,5 +1,5 @@
 <h2 align="center">
-    A3 Portfolio - v1.2<br/>
+    A3 Portfolio - v1.3<br/>
   <a href="https://allansmithll.github.io/a3-portfolio" target="_blank">Visite meu Portfólio</a>
 </h2>
 <div align="center">
