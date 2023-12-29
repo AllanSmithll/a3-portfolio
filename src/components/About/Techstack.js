@@ -16,7 +16,9 @@ import {
   SiCsharp,
   SiVite,
   SiGo,
-  SiDotnet
+  SiDotnet,
+  SiSpring,
+  SiDjango
 } from "react-icons/si";
 
 function Techstack() {
@@ -63,6 +65,12 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiDotnet />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiSpring />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiDjango />
       </Col>
     </Row>
   );

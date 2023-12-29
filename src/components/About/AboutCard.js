@@ -10,7 +10,8 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Olá pessoas, sou o <span className="purple">Allan Amancio </span>
             da <span className="purple"> Paraíba, Brasil.</span>
-            <br /> Eu estou no penúltimo ano do curso Sistemas para Internet, no Instituto Federal da Paraíba (IFPB).
+            <br /> Tenho previsão de concluir o curso Sistemas para Internet, no Instituto Federal da 
+            Paraíba (IFPB), em 2024.
             <br />
             Atualmente, estou a procura de alguma vaga de estágio na área de Tecnologia da Informação.
             <br />
@@ -32,7 +33,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
             "Faça a diferença na vida de alguém"{" "}
           </p>
-          <footer className="blockquote-footer">Ninguém em específico hahaha</footer>
+          <footer className="blockquote-footer">A3</footer>
         </blockquote>
       </Card.Body>
     </Card>

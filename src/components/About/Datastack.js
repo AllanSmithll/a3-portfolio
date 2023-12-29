@@ -4,7 +4,8 @@ import {
   SiMysql,
   SiPostgresql,
   SiMicrosoftsqlserver,
-  SiMongodb
+  SiMongodb,
+  SiFirebase
 } from "react-icons/si";
 
 function DataStack() {
@@ -21,6 +22,9 @@ function DataStack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiMongodb />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiFirebase />
       </Col>
     </Row>
   );

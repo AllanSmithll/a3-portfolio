@@ -23,14 +23,15 @@ function Home2() {
               <br />
               <br />Eu sou fluente em várias linguagens de programação, como
               <i>
-                <b className="purple"> Python, Javascript/TypeScript, Java and C#. </b>
+                <b className="purple"> Python, Javascript, TypeScript, Java, Golang and C#. </b>
               </i>
               <br />
               <br />
               Minha área de interesse, como dito anteriormente, é a de &nbsp;
               <i>
-                <b className="purple">Engenharia de Software. </b> Gosto de parte de {" "}
-                <b className="purple"> desenvolvimento de softwares, análise de sistemas, banco de dados e pesquisar sobre coisas relacionadas à área.
+                <b className="purple">Engenharia de Software. </b> Gosto das partes de {" "}
+                <b className="purple"> desenvolvimento de softwares, análise de sistemas e requisitos, engenharia de requisitos, banco de dados e pesquisar 
+                sobre coisas relacionadas à área.
                 </b>
               </i>
               <br />
@@ -39,12 +40,12 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  Bibliotecas e Frameworks Modernos de JavaScript e TypeScript,
+                  Bibliotecas e Frameworks Modernos de várias linguagens de programação,
                 </b>
               </i>
               &nbsp; como
               <i>
-                <b className="purple"> React.js e Angular.</b>
+                <b className="purple"> React.js, Angular, Spring Boot, Django e .NET.</b>
               </i>
               <br />
               <br />
@@ -54,7 +55,7 @@ function Home2() {
                 </ i>
                 &nbsp; para fazer aplicações bem mais robustas, junto de um bom framework, como o próprio 
                  <i>
-                <b className="purple">                Angular.
+                <b className="purple">                Angular e o Spring Boot.
                 </b>
                 </ i> 
             </p>
